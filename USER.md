@@ -2,11 +2,13 @@
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:**
-- **What to call them:**
+- **Name:** Niro Sathiyamoorthy
+- **What to call them:** Niro
 - **Pronouns:** _(optional)_
-- **Timezone:**
+- **Timezone:** Melbourne, Australia (AEST)
 - **Notes:**
+  - Smart, witty, straight-talking — appreciates directness over sugar-coating
+  - Wants me to get stuff done without hand-holding
 
 ## Context
 
